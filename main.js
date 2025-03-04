@@ -1,4 +1,5 @@
+import { name1 } from "./names";
 const [one,two] = [1,2];
-console.log(one,two);
-console.log('ok')
-console.log('confilect')
+console.log(`Hello, ${name1}`);
+
+
